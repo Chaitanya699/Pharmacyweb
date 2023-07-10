@@ -1,0 +1,37 @@
+{
+  "address": [
+    {
+      "firstName": "Pankaj",
+      "lastName": "singh",
+      "number": "6474367563",
+      "pincode": "5653126",
+      "address": "b 103 chandresh corner",
+      "city": "Vasai",
+      "state": "Maharashtra",
+      "locality": "gdsjgdsj",
+      "id": 14
+    },
+    {
+      "firstName": "pankaj",
+      "lastName": "singh",
+      "number": "5363264",
+      "pincode": "5653126",
+      "address": "b 103 chandresh corner",
+      "city": "Vasai",
+      "state": "Maharashtra",
+      "locality": "sai nagar",
+      "id": 15
+    },
+    {
+      "firstName": "Yuvraj",
+      "lastName": "kumar",
+      "number": "387348653",
+      "pincode": "35543",
+      "address": "pune",
+      "city": "Mumbai",
+      "state": "Rajasthan",
+      "locality": "ringas",
+      "id": 13
+    }
+  ]
+}

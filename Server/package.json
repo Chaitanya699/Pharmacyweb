@@ -1,0 +1,25 @@
+{
+  "name": "yourpharmacy",
+  "version": "1.0.0",
+  "description": "Login/SignUp -Ashish,     \r HomePage-Pankaj,  \r Product page/Product Description Page-Tushar,  \r CartPage-Saif,  \r Adrress /payment Page-Ashutosh",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajsbisht143/YourPharmacy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankajsbisht143/YourPharmacy/issues"
+  },
+  "homepage": "https://github.com/pankajsbisht143/YourPharmacy#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.3"
+  }
+}
